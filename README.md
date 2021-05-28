@@ -13,7 +13,7 @@
 
 
 <div>
-	<a href="https://www.youtube.com/watch?v=비디오id" target="_blank"><image src = "https://img.youtube.com/vi/비디오id(우리 영상 주소)/mqdefault.jpg"></a>	
+	<a href="https://www.youtube.com/watch?v=y2-JB5auRo0" target="_blank"><image src = "https://img.youtube.com/vi/y2-JB5auRo0/mqdefault.jpg"></a>	
 
 </div>
 
