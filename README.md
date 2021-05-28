@@ -17,6 +17,5 @@
 
 </div>
 
-[JavaDoc 보러가기](
-https://kimhyeonyoung10.github.io/vgc-project/doc/index.html)
+[JavaDoc 보러가기](https://kimhyeonyoung10.github.io/vgc-project/blob/master/VGCProject/doc/index.html)
 
